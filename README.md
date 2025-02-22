@@ -26,4 +26,10 @@ bash
 Copy
 Edit
 npm install
+![Screenshot (438)](https://github.com/user-attachments/assets/9b44b6fb-5a5c-4f34-8d38-46d62937c997)
+
+![Screenshot (439)](https://github.com/user-attachments/assets/56c9b4e2-24b4-431b-937e-2a711a18f358)
+
+![Screenshot (440)](https://github.com/user-attachments/assets/a9b85df3-1571-43ec-9109-a5580a2804af)
+
 ![Screenshot (441)](https://github.com/user-attachments/assets/2a507db4-b0b6-4701-a62f-87b14ea510dd)
